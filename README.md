@@ -1,5 +1,8 @@
 # Spacestagram
 
+* This project was built to participate in the Shopify Frontend Challenge.
+* This project is hosted on https://hskpeter.github.io/spacestagram/
+
 ## Features
 * [x] Fetches data from NASA’s *Astronomy Picture of the Day* API and display the resulting images
 * [x] Displays descriptive data for each image (title and date of capture)
